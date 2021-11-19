@@ -14,7 +14,7 @@ function display(markdownText) {
 }
 
 function loadInitial() {
-  const placeholder = `# Welcome to my React Markdown Previewer!
+  const placeholder = `# Welcome to my Markdown Previewer!
 
 ## This is a sub-heading...
 ### And here's some other cool stuff:
